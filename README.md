@@ -1,0 +1,2 @@
+# RestCountres
+# REST Countries API    ## The challenge  Your challenge is to integrate with the [REST Countries API](https://restcountries.com) to pull country data and display it like in the designs.  https://restcountries.com/v3.1/all?fields=name,region,capital  Your users should be able to:  - See all countries from the API on the homepage (Countries data should be a context) - Search for a country using an `input` field - Filter countries by region
